@@ -20,5 +20,6 @@ Backend: Python (Flask)
 
 Cloud Services: Microsoft Azure Custom Vision
 
+.
 
 
