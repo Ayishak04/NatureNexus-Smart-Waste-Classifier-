@@ -1,0 +1,3 @@
+flask
+requests
+python-venv  # If you are using environment variables for API keys
