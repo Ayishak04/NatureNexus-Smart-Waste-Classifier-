@@ -1,4 +1,4 @@
-# SmartWasteClassifier
+<img width="1440" alt="Screenshot 2025-02-25 at 3 43 37 PM" src="https://github.com/user-attachments/assets/e8857158-dfbc-4800-a773-5f300f125ccd" /># SmartWasteClassifier
 
 Smart Waste Management is an AI-powered solution designed to classify waste into organic and recyclable categories. This helps in efficient waste sorting, reducing pollution, and promoting recycling. The system utilizes Azure Custom Vision to analyze images and determine the correct waste category.
 
@@ -19,6 +19,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: Python (Flask)
 
 Cloud Services: Microsoft Azure Custom Vision
+
 
 ##Pitch Video
 
